@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IocSpring.iml" filepath="$PROJECT_DIR$/IocSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringThree/SpringThree.iml" filepath="$PROJECT_DIR$/SpringThree/SpringThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringTwo/SpringTwo.iml" filepath="$PROJECT_DIR$/SpringTwo/SpringTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springone/Springone.iml" filepath="$PROJECT_DIR$/Springone/Springone.iml" />
+    </modules>
+  </component>
+</project>
